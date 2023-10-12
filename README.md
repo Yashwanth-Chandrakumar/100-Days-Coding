@@ -1,2 +1,7 @@
 # 100-Days-Coding
-This is my series of 100 days coding on top 4 platforms
+The platforms are:
+1) Codechef
+2) Leetcode
+3) HackerRank
+4) HackerEarth
+
