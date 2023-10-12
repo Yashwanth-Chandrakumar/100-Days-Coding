@@ -7,4 +7,4 @@ The platforms are:
 
 To join with me give a star to the repo!
 
-Day - 1 - Completeled - 12/10/2023 8:19pm
+Day - 1 - Completed - 12/10/2023 8:19pm
