@@ -6,3 +6,5 @@ The platforms are:
 4) HackerEarth
 
 To join with me give a star to the repo!
+
+Day - 1 - Completeled - 12/10/2023 8:19pm
