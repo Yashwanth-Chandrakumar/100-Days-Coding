@@ -40,26 +40,30 @@ The two numbers are identical.
 #include <iostream>
 using namespace std;
 
-void count(int x){
-	int sum = 0;
-	while(x){
-		sum+=x&1;
-		x>>=1;
-	}
-	cout<<sum<<endl;
-	sum-=sum;
+int countSetBits(long long n) {
+    int count = 0;
+    while (n > 0) {
+        count += n & 1;
+        n >>= 1;
+    }
+    return count;
 }
-
-
 
 int main() {
-	int n;
-	int res;
-	cin>>n;
-	int arr[n],brr[n];
-	for(int i=0;i<n;i++){
-		cin>>arr[i]>>brr[i];
-		res = arr[i]^brr[i];
-		count(res);
-	}
+    int T;
+    cin >> T;
+
+    while (T--) {
+        long long P, M;
+        cin >> P >> M;
+
+        long long xorResult = P ^ M;
+
+        int differingBits = countSetBits(xorResult);
+
+        cout << differingBits << endl;
+    }
+
+    return 0;
 }
+
