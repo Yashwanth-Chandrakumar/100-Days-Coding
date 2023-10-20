@@ -14,4 +14,6 @@ Day - 4 - Completed - 15-10-2023 4:54pm <br>
 Day - 5 - Completed - 16-10-2023 7:18pm <br>
 Day - 6 - Completed - 17-10-2023 2:54pm <br>
 Day - 7 - Completed - 18-10-2023 1:55pm <br>
+Day - 8 - Completed - 19-10-2023 8:30pm <br>
+Day - 9 - Completed - 20-10-2023 9:45pm
 
