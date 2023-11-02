@@ -27,7 +27,5 @@ Day - 17 - Completed - 28-10-2023 11:33pm <br>
 Day - 18 - Completed - 29-10-2023 08:38pm <br>
 Day - 19 - Completed - 30-10-2023 09:46pm <br>
 Day - 20 - Completed - 31-10-2023 06:23pm <br>
-Day - 21 - Completed - 01-11-2023 11:54pm
-
-
-
+Day - 21 - Completed - 01-11-2023 11:54pm <br>
+Day - 22 - Completed - 02-11-2023 06:20pm
