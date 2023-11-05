@@ -30,4 +30,5 @@ Day - 20 - Completed - 31-10-2023 06:23pm <br>
 Day - 21 - Completed - 01-11-2023 11:54pm <br>
 Day - 22 - Completed - 02-11-2023 06:20pm <br>
 Day - 23 - Completed - 03-11-2023 07:23pm <br>
-Day - 24 - Completed - 04-11-2023 10-07pm
+Day - 24 - Completed - 04-11-2023 10-07pm <br>
+Day - 25 - Completed - 05-11-2023 09:46pm
