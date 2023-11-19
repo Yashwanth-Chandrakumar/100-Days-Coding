@@ -44,4 +44,5 @@ Day - 34 - Completed - 14-11-2023 10:13pm <br>
 Day - 35 - Completed - 15-11-2023 07:00pm <br>
 Day - 36 - Completed - 16-11-2023 05:24pm <br>
 Day - 37 - Completed - 17-11-2023 06:25pm <br>
-Day - 38 - Completed - 18-11-2023 07:59pm
+Day - 38 - Completed - 18-11-2023 07:59pm <br>
+Day - 39 - Completed - 19-11-2023 08:80pm
