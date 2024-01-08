@@ -92,4 +92,7 @@ Day - 82 - Completed - 01-01-2024 06:01pm <br>
 Day - 83 - Completed - 02-01-2024 08:37pm <br>
 Day - 84 - Completed - 03-01-2024 09:53pm <br>
 Day - 85 - Completed - 04-01-2024 10:01pm <br>
-Day - 86 - Completed - 05-01-2024 11:00pm
+Day - 86 - Completed - 05-01-2024 11:00pm <br>
+Day - 87 - Completed - 06-01-2024 08:34pm <br>
+Day - 88 - Completed - 07-01-2024 09:47pm <br>
+Day - 89 - Completed - 08-01-2024 07:14pm
