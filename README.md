@@ -100,4 +100,6 @@ Day - 90 - Completed - 09-01-2024 05:30pm <br>
 Day - 91 - Completed - 10-01-2024 07:21pm <br>
 Day - 92 - Completed - 11-01-2024 09:21pm <br>
 Day - 93 - Completed - 12-01-2024 05:30pm <br>
-Day - 94 - Completed - 13-01-2024 05:17pm
+Day - 94 - Completed - 13-01-2024 05:17pm <br>
+Day - 95 - Completed - 14-01-2024 06:43pm <br>
+Day - 96 - Completed - 15-01-2024 03:44pm
